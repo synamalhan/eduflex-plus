@@ -30,7 +30,7 @@ A modern, AI-powered educational platform that adapts to your emotional state an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/eduflex-plus.git
+   git clone https://github.com/synamalhan/eduflex-plus.git
    cd eduflex-plus
    ```
 
